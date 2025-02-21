@@ -25,7 +25,7 @@ navbar-links:
     - Daily Services: "https://www.svtemple.org/#/services/daily"
     - Vahana Puja: "https://www.svtemple.org/#/services/vahana_sevas"
     - Special Services: "https://www.svtemple.org/#/events/religious"
-  Events & Activites: "https://www.svtemple.org/#/events"
+  Events & Activites: "events"
 
 ################
 # --- Logo --- #
