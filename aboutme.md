@@ -1,11 +1,8 @@
 ---
 layout: page
 title: About Us
-subtitle: 
-ॐ सर्वेषाऺ स्वस्तिर्भवतु ।
-सर्वेषाऺ शान्तिर्भवतु ।
-सर्वेषाऺ पूर्णं भवतु ।
-सर्वेषाऺ मङ्गलं भवतु ।
+subtitle: ॐ सर्वेषाऺ स्वस्तिर्भवतु । सर्वेषाऺ शान्तिर्भवतु ।
+सर्वेषाऺ पूर्णं भवतु । सर्वेषाऺ मङ्गलं भवतु ।
 ॐ शान्तिः शान्तिः शान्तिः ॥
 ---
 
@@ -23,3 +20,5 @@ In addition to the principal deities, our temple houses a number of other revere
 **Hanuman**: The devoted servant of Lord Rama, symbolizing strength, devotion, and perseverance.
 **Navagrahas**: The nine planetary deities, each influencing different aspects of human life and worshipped to mitigate planetary afflictions.
 The [Temple Name] serves as a place of worship, learning, and community gathering.  We invite you to join us for regular pujas, festivals, and spiritual discourses, and experience the divine presence that permeates our temple.  We strive to create a welcoming and inclusive environment for all, where individuals can connect with their faith, learn about Hindu traditions, and find peace and solace.  We believe that by promoting the principles of Sanatana Dharma, we contribute to a more harmonious and spiritually enriched society.
+
+************---------------------------------------------------------------************---------------------------------------------------------------************
