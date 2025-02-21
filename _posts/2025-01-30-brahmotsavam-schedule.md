@@ -4,8 +4,6 @@ title: 23వ వార్షిక బ్రహ్మోత్సవములు
 subtitle: 05.02.2025 నుండి 07.02.2025 వరకు
 
 tags: [Brahmotsavam]
-comments: true
-mathjax: true
 author: Trustees
 ---
 
@@ -32,14 +30,11 @@ author: Trustees
 
 హోమం/అభిషేకంలో పాల్గొన దలచిన మిత్రులు నాకు గోత్ర నామాలు తెలియపరచ మనవి.
 
-##SVBS Murthy
-###9440364447
+{: .box-note}
+SVBS Murthy. (+91-9440364447)
 
 
 ![Govinda Govinda](/assets/img/Kalyanam.jpg){: .mx-auto.d-block :}
 
-
-{: .box-note}
-**Note:** 04.02.2025  మంగళవారం  రథసప్తమి - శ్రీ సూర్య సుదర్శన హోమం - ₹ 351/-
 
 
