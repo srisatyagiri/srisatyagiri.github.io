@@ -22,9 +22,8 @@ author: Sreepada Family Trust
 navbar-links:
   About Us: "aboutme"
   Services:
-    - Daily Services: "https://www.svtemple.org/#/services/daily"
-    - Vahana Puja: "https://www.svtemple.org/#/services/vahana_sevas"
-    - Special Services: "https://www.svtemple.org/#/events/religious"
+    - Daily Services: "services"
+    - Vahana Puja: "carpooja"
   Events & Activites: "events"
 
 ################
