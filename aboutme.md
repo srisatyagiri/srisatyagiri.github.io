@@ -12,12 +12,13 @@ At the heart of our temple stands a magnificent 7-foot tall idol of Sri Venkates
 
 In addition to the principal deities, our temple houses a number of other revered deities:
 
-**Sri Ganesha**: The elephant-headed god of wisdom, knowledge, and remover of obstacles.
-**Sri Kumara Swamy (Murugan)**: The valiant god of war and victory, symbolizing courage and strength.
-**Sri Dattatreya**: A deity embodying the trinity of Brahma, Vishnu, and Maheshwara (Shiva), representing the unity of divine forces.
-**Sri Hanuman**: The devoted servant of Lord Rama, symbolizing strength, devotion, and perseverance.
-**Navagrahas**: The nine planetary deities, each influencing different aspects of human life and worshipped to mitigate planetary afflictions.
-The [Temple Name] serves as a place of worship, learning, and community gathering.  We invite you to join us for regular pujas, festivals, and spiritual discourses, and experience the divine presence that permeates our temple.  We strive to create a welcoming and inclusive environment for all, where individuals can connect with their faith, learn about Hindu traditions, and find peace and solace.  We believe that by promoting the principles of Sanatana Dharma, we contribute to a more harmonious and spiritually enriched society.
+* **Lord Ganesha**: The elephant-headed god of wisdom, knowledge, and remover of obstacles.
+* **Lord Kumara Swamy (Kartikeya)**: The valiant god of war and victory, symbolizing courage and strength.
+* **Lord Dattatreya**: A deity embodying the trinity of Brahma, Vishnu, and Maheshwara (Shiva), representing the unity of divine forces.
+* **Sri Hanuman**: The devoted servant of Lord Rama, symbolizing strength, devotion, and perseverance.
+* **Navagrahas**: The nine planetary deities, each influencing different aspects of human life and worshipped to mitigate planetary afflictions.
+
+**Satyagiri** serves as a place of worship, learning, and community gathering.  We invite you to join us for regular pujas, festivals, and spiritual discourses, and experience the divine presence that permeates our temple.  We strive to create a welcoming and inclusive environment for all, where individuals can connect with their faith, learn about Hindu traditions, and find peace and solace.  We believe that by promoting the principles of Sanatana Dharma, we contribute to a more harmonious and spiritually enriched society.
 
 ॐ सर्वेषाऺ स्वस्तिर्भवतु । सर्वेषाऺ शान्तिर्भवतु । 
 सर्वेषाऺ पूर्णं भवतु । सर्वेषाऺ मङ्गलं भवतु ।
