@@ -32,10 +32,6 @@ author: Trustees
 ## హోమం/అభిషేకంలో పాల్గొన దలచిన మిత్రులు నాకు గోత్ర నామాలు తెలియపరచ మనవి.
 
 
-{: .box-note}
-Contact: SVBS Murthy. (+91-9440364447)
-
-
 ![Govinda Govinda](/assets/img/Kalyanam.jpg){: .mx-auto.d-block :}
 
 
